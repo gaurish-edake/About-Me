@@ -18,6 +18,8 @@ Welcome to my GitHub profile! I'm a graduate student in the **Management of Tech
 
 ### My Experience:
 ![Experience](/assets/Exp.jpg)
+![Bike Study](/assets/img/bike_study.jpeg)
+
 
 ## 📂 What You'll Find in My Repositories:
 - **Data-driven projects**: Stock data analysis, financial modeling, data visualizations
