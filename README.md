@@ -16,6 +16,9 @@ Welcome to my GitHub profile! I'm a graduate student in the **Management of Tech
 - **Project Management**: Agile, Scrum
 - **Version Control**: Git, GitHub
 
+### My Experience:
+![Experience](assets/experience.jpg)
+
 ## 📂 What You'll Find in My Repositories:
 - **Data-driven projects**: Stock data analysis, financial modeling, data visualizations
 - **App redesigns**: UX/UI improvement projects, such as the **Zelle app redesign**
