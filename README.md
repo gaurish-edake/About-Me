@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a graduate student in the **Management of Tech
 - **Version Control**: Git, GitHub
 
 ### My Experience:
-![Experience](assets/Exp.jpg)
+![Experience](/assets/Exp.jpg)
 
 ## 📂 What You'll Find in My Repositories:
 - **Data-driven projects**: Stock data analysis, financial modeling, data visualizations
