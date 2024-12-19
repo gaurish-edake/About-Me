@@ -1,8 +1,7 @@
 # Hi there, I'm Gaurish! 👋 
 
-
-<div style="display: flex; align-items: center; justify-content: flex-start;">
-  <p style="margin-right: 20px;">Welcome to my GitHub profile! I'm a graduate student in the **Management of Technology** program, with a strong passion for **data-driven decision-making**, **technology project management**, and **software development**.</p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <p style="flex: 1; margin-right: 20px;">Welcome to my GitHub profile! I'm a graduate student in the **Management of Technology** program, with a strong passion for **data-driven decision-making**, **technology project management**, and **software development**.</p>
   <img src="/assets/headshot_circle.png" width="150px" height="150px" style="border-radius: 50%; margin-left: 20px;">
 </div>
 
