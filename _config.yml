@@ -2,8 +2,4 @@ title: Gaurish Edake
 #logo: /assets/headshot_circle.png
 #description: text below image
 #show_downloads: true
-#theme: jekyll-theme-minimal
-description: Portfolio
-baseurl: ""
-url: "https://gaurish-edake.github.io/About-Me/"
-theme_color: "#2a5d84" # Example theme color
+theme: jekyll-theme-Cayman
