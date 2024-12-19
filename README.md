@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Gaurish! 👋
+# Hi there, I'm Gaurish! 👋 ![Profile Picture](/assets/headshot_circle.png){: style="float: right; width: 150px; height: auto; margin-left: 20px;"}
 
 Welcome to my GitHub profile! I'm a graduate student in the **Management of Technology** program, with a strong passion for **data-driven decision-making**, **technology project management**, and **software development**.
 
